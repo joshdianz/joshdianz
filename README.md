@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @joshdianz
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Development
+- 👋 Hi, I’m Joshua Kakama
+- 👀 I’m interested in Programming and Design
+- 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate within the Tech Industry
 - 📫 How to reach me email: joshuakakama111@gmail.com or whatsapp: 0818662035
 
